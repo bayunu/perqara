@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>XCUIElementTypeSecureTextField</name>
+   <tag></tag>
+   <elementGuidId>0301affc-3f5f-47ce-89fc-2a48866ebfbb</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>XCUIElementTypeSecureTextField</value>
+      <webElementGuid>dfeaab82-0218-45f4-81d7-723f90a2e292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accessible</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a436de4a-1c7d-457c-a108-635eca995ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cd69eb9f-5c75-4ff8-965a-28e30ba42b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4d75ffef-2de7-4728-9633-c655211f50af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>${secureTextField}</value>
+      <webElementGuid>201b219e-6487-4733-997b-9cbdb4229913</webElementGuid>
+   </webElementProperties>
+   <locator>**/XCUIElementTypeSecureTextField[`enabled == 1 AND value = '${secureTextField}'`]</locator>
+   <locatorStrategy>IOS_CLASS_CHAIN</locatorStrategy>
+</MobileElementEntity>

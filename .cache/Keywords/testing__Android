@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "5E745F8DFCFD1A1BC3FBB0DB9F4C11E9",
+  "keywordClasses": [
+    {
+      "name": "testing.Android",
+      "keywordMethods": [
+        {
+          "name": "openApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

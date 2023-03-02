@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E909B3B0C51FA8797E07A8C799A99788",
+  "keywordClasses": [
+    {
+      "name": "android.TestingAndroidGlints",
+      "keywordMethods": [
+        {
+          "name": "openApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

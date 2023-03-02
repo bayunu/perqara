@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Saya</name>
+   <tag></tag>
+   <elementGuidId>12bb666c-d851-4efd-8317-030f8a99c04c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong.UserMenuComponentssc__NameHolder-sc-16frqer-4.kQZmmo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div[4]/nav/div[5]/div[3]/div/div/div/div/div/span/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>e36c4c14-111b-4ae6-9e80-6be3f4e4a6dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>UserMenuComponentssc__NameHolder-sc-16frqer-4 kQZmmo</value>
+      <webElementGuid>1b3f8bc8-8ce0-4082-9518-0bdf5ba2747e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>jayakarta</value>
+      <webElementGuid>a6c267fa-f6c7-4e29-8866-b4450a6f09b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;NavigationComponentssc__DrawerContainer-sc-vokz7d-0 daViyw&quot;]/div[@class=&quot;MainContainersc__MainLayout-sc-iy5ixg-0 llLQXs&quot;]/div[@class=&quot;MainContainersc__MainHeader-sc-iy5ixg-1 hiOHmW&quot;]/div[@class=&quot;GlintsContainer-sc-ap1z3q-0 iUnyrV max-height&quot;]/div[@class=&quot;fresnel-container fresnel-greaterThanOrEqual-desktopS&quot;]/nav[@class=&quot;DesktopMenuComponentssc__Container-sc-wdt612-0 bFGUem&quot;]/div[@class=&quot;DesktopMenuComponentssc__RightMenuContainer-sc-wdt612-3 bSbWdk&quot;]/div[@class=&quot;DesktopMenuComponentssc__UserMenuItem-sc-wdt612-6 hJQYSk&quot;]/div[@class=&quot;UserMenuComponentssc__UserMenuContainer-sc-16frqer-0 qSCQQ&quot;]/div[@class=&quot;UserMenuComponentssc__UserSettingSection-sc-16frqer-1 iIZsGf&quot;]/div[@class=&quot;DropdownStyle__DropdownContainer-sc-1sc3c6h-1 fyNvNA aries-dropdown UserMenuComponentssc__Dropdown-sc-16frqer-2 UdYBy&quot;]/div[@class=&quot;DropdownStyle__DropdownWrapper-sc-1sc3c6h-0 boJQOp dropdown-contentwrapper&quot;]/div[@class=&quot;DropdownStyle__DropdownHeader-sc-1sc3c6h-2 kZlEVQ dropdown-content&quot;]/span[1]/strong[@class=&quot;UserMenuComponentssc__NameHolder-sc-16frqer-4 kQZmmo&quot;]</value>
+      <webElementGuid>f2f2a648-29ec-4310-9a23-6f2b374d5416</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div[4]/nav/div[5]/div[3]/div/div/div/div/div/span/strong</value>
+      <webElementGuid>58c1b747-5937-4a3d-a3a9-816f57038639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earn points and redeem rewards when you reach your application target.'])[1]/following::strong[1]</value>
+      <webElementGuid>dbe335a9-ac97-461b-8c68-d1c1d1a6f893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set your application target and get rewarded!'])[1]/following::strong[1]</value>
+      <webElementGuid>15bea1b4-1dd0-48c7-a205-15b0b3c8f98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Saya'])[1]/preceding::strong[1]</value>
+      <webElementGuid>00fcc146-c60f-4f18-ae9f-d9f1fcc6c5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lamaran Saya'])[1]/preceding::strong[1]</value>
+      <webElementGuid>faab1af7-2ea2-4d52-80bc-3ec748b0432b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='jayakarta']/parent::*</value>
+      <webElementGuid>b48eb484-4582-40ee-96f4-13388b46a9f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>55470841-af0f-47d4-acde-8a8973e050f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'jayakarta' or . = 'jayakarta')]</value>
+      <webElementGuid>39086f36-3148-4f37-92f6-4102cc77cee1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

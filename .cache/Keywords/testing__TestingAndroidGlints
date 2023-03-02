@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "4F25849D96254CE2FFD812FC3C82A0C0",
+  "keywordClasses": [
+    {
+      "name": "testing.TestingAndroidGlints",
+      "keywordMethods": [
+        {
+          "name": "openApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

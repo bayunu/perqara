@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Masuk</name>
+   <tag></tag>
+   <elementGuidId>e1afdf00-37cc-441b-9241-6657069bf00f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ButtonStyle__Button-sc-jyb3o2-0.ButtonStyle__SolidShadowBtn-sc-jyb3o2-3.cmLoTj.hqOudV.solid-shadow-btn-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>867c604e-a484-433e-b784-70a28fe531d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ButtonStyle__Button-sc-jyb3o2-0 ButtonStyle__SolidShadowBtn-sc-jyb3o2-3 cmLoTj hqOudV solid-shadow-btn-content</value>
+      <webElementGuid>249d1267-d1c2-419a-9bcc-99012243231d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>571019d4-d1d3-457c-9a8a-3de9c0af05b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>58270a4c-2191-4af7-a62f-f0aa2dba09be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;NavigationComponentssc__DrawerContainer-sc-vokz7d-0 daViyw&quot;]/div[@class=&quot;MainContainersc__MainLayout-sc-iy5ixg-0 llLQXs&quot;]/div[@class=&quot;MainContainersc__MainHeader-sc-iy5ixg-1 hiOHmW&quot;]/div[@class=&quot;GlintsContainer-sc-ap1z3q-0 iUnyrV max-height&quot;]/div[@class=&quot;LoginModalsc__LoginSignUpModalContainer-sc-xugkf-0 chZqHW&quot;]/div[@class=&quot;ModalStyle__ModalContainer-sc-bg1vyz-0 kSIRJi aries-modal&quot;]/div[@class=&quot;ModalStyle__ModalDialog-sc-bg1vyz-1 gzeQUw modal-dialog&quot;]/div[@class=&quot;ModalStyle__ModalContentArea-sc-bg1vyz-5 iRgfrD modal-content&quot;]/section[@class=&quot;ModalStyle__ModalBody-sc-bg1vyz-3 jEcvKj modal-body&quot;]/div[2]/div[@class=&quot;LoginFormsc__Body-sc-iak0b7-6 coZrUg&quot;]/div[@class=&quot;LoginFormsc__ContentWrapper-sc-iak0b7-20 dNFVpf&quot;]/form[1]/div[@class=&quot;ButtonStyle__SolidShadowContainer-sc-jyb3o2-4 eyAfDH aries-solid-shadow-btn LoginFormsc__SubmitButton-sc-iak0b7-14 gIXxEw gtm-login-button amplitude_login-click_login_page_email&quot;]/button[@class=&quot;ButtonStyle__Button-sc-jyb3o2-0 ButtonStyle__SolidShadowBtn-sc-jyb3o2-3 cmLoTj hqOudV solid-shadow-btn-content&quot;]</value>
+      <webElementGuid>2d0da440-f493-4f49-bdae-ab5e338a8a6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>c3599be4-9684-43d0-8b88-19116a05232b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div/div/div/div/section/div[2]/div/div/form/div[4]/button</value>
+      <webElementGuid>c55793dc-7121-401d-abc3-ed84c0dca2e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/following::button[1]</value>
+      <webElementGuid>97ee3ca8-f4ee-48ff-84d7-5e10fd34e292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
+      <webElementGuid>baf58561-727f-4cbd-8023-6cc795011119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or login with'])[1]/preceding::button[1]</value>
+      <webElementGuid>2a8c974c-e0b0-4fb4-8ed9-8feda23df089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>0692ca91-3323-4fc1-bd59-e7dd37416eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>ef5e4c9f-bcb2-4a53-8aa6-fc7db19835d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

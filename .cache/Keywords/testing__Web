@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "1382E4981423287E5A7EB2BBAB9C93FB",
+  "keywordClasses": [
+    {
+      "name": "testing.Web",
+      "keywordMethods": [
+        {
+          "name": "closeWeb",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

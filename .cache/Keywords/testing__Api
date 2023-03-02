@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "5F2A6046BEAEDE11ECD42ED48B15449B",
+  "keywordClasses": [
+    {
+      "name": "testing.Api",
+      "keywordMethods": [
+        {
+          "name": "signUp",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

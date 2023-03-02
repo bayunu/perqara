@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "E38A09D08B31A3522596937EFDD747A4",
+  "keywordClasses": [
+    {
+      "name": "testing.Ios",
+      "keywordMethods": [
+        {
+          "name": "signIn",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
